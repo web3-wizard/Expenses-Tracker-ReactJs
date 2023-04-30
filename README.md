@@ -4,8 +4,16 @@ React JS | React Bootstrap | Custom hooks | Localstorage
 
 ## Preview the application
 
+### Home Screen
+
 ![Preview Home](/screenshots/Preview%20Home.png)
+
+### View Expenses Screen
+
 ![Preview Expenses](/screenshots/Preview%20Expenses.png)
+
+### Mobile View
+
 ![Preview Mobile](/screenshots/Preview%20Mobile.png)
 
 # Getting Started with Create React App
