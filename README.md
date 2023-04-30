@@ -1,3 +1,13 @@
+# Budgets / Expenses Tracking Application
+
+React JS | React Bootstrap | Custom hooks | Localstorage
+
+## Preview the application
+
+![Preview Home](/screenshots/Preview%20Home.png)
+![Preview Expenses](/screenshots/Preview%20Expenses.png)
+![Preview Mobile](/screenshots/Preview%20Mobile.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
